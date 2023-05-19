@@ -1,0 +1,7 @@
+This file contains url's for collections from postman:
+
+1. Url collection for current weather from OpenWeather
+https://api.postman.com/collections/6059241-0a544532-3d6b-445f-a36c-c984aa7c2f99?access_key=PMAT-01H0PYNYQ5YZ0YXCR8HKN74Q48
+
+2. Url collection for history and forecast from Weatherapi
+https://api.postman.com/collections/6059241-67aec969-58ec-4a4a-92f0-8a334f38aff8?access_key=PMAT-01H0PZMMDBAHG2H32NH32D811T
